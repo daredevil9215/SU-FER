@@ -1,1 +1,1 @@
-# SU-FER
+# Strojno učenje
